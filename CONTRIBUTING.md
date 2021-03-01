@@ -1,4 +1,4 @@
-# How to Contribute //my change //my second change //6th commit 1 2
+# How to Contribute //my change //my second change //6th commit 1 2 3
 
 We'd love to accept your patches and contributions to this project. There are
 just a few small guidelines you need to follow.
